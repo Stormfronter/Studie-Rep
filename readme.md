@@ -5,5 +5,4 @@ Dit voor de studie van Toon.
 Danny moet even wat toevoegen, zodat ik kan checken hoe dat werkt.
 
 ### Tot slot
-
-**Toemaar**
+Toe maar.
